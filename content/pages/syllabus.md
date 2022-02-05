@@ -45,12 +45,57 @@ _D-Lab Energy_ is a 12-unit undergraduate class: 3 hours/week in lecture, 3 hour
 
 This seminar is graded on an A/B/C/D/F basis; furthermore it is a class where your work is impacting the lives of people in Nicaragua and we expect an appropriate level of commitment.
 
-| COURSE WORK | GRADE WEIGHTS |
-| --- | --- |
-| Course engagement (attendance, participation in both in-class and online activities) | 25% |
-| Assignments (readings, homework, labs) | 25% |
-| Quizzes | 20% |
-| Design project (10% final prototype & report, 10% participation, 10% assignments) | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSE WORK
+{{< thclose >}}
+{{< thopen >}}
+GRADE WEIGHTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Course engagement (attendance, participation in both in-class and online activities)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments (readings, homework, labs)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Design project (10% final prototype & report, 10% participation, 10% assignments)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Readings
 --------
@@ -95,27 +140,391 @@ Calendar
 
 ### Part 1: Foundations - Lectures and Labs
 
-| WEEK # | CLASSES | LABS | ASSIGNMENTS DUE\* |
-| --- | --- | --- | --- |
-| 1 | Lecture 1. Introduction: Energy, units, estimation, energy usage world-wide | Lab 1. Human Power | Problem Set 0 (Lantern) |
-| 2 |  {{< br >}}{{< br >}} Lecture 2. Energy storage & micro grids {{< br >}}{{< br >}} Initial trip planning {{< br >}}{{< br >}}  | Lab 2. Energy Storage |  {{< br >}}{{< br >}} Reading reaction {{< br >}}{{< br >}} Problem Set 1 {{< br >}}{{< br >}} Lab 1 write-up {{< br >}}{{< br >}} Trip project survey {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Lecture 3. Lighting {{< br >}}{{< br >}} Community partner introduction {{< br >}}{{< br >}}  | Lab 3. Biogas & biodiesel lecture & construction |  {{< br >}}{{< br >}} Problem Set 2 {{< br >}}{{< br >}} Lab 2 write-up {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Lecture 4. Solar thermal & PV {{< br >}}{{< br >}} Quiz I {{< br >}}{{< br >}}  | Lab 4. Solar panel construction, installation, and operation |  {{< br >}}{{< br >}} Reading reaction {{< br >}}{{< br >}} Community partner outreach {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Lecture 5. Wind & micro-hydro {{< br >}}{{< br >}} Trip planning {{< br >}}{{< br >}}  | Lab 5. Savonius wind turbine construction & testing |  {{< br >}}{{< br >}} Reading reaction {{< br >}}{{< br >}} Problem Set 3 {{< br >}}{{< br >}} Lab 4 write-up {{< br >}}{{< br >}} 1st brainstorm pictures {{< br >}}{{< br >}} Literature search {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Lecture 6. Cooking, stoves, & fuel {{< br >}}{{< br >}} Biogas digester testing {{< br >}}{{< br >}}  | Lab 6. Charcoal making & stove testing |  {{< br >}}{{< br >}} Reading reaction {{< br >}}{{< br >}} Lab 3 and Lab 5 write-ups {{< br >}}{{< br >}} Initial project specifications {{< br >}}{{< br >}} 2nd brainstorm pictures {{< br >}}{{< br >}} Materials list for trip {{< br >}}{{< br >}}  |
-| 7 | Lecture 7. Trip plan presentations | Trip preparation |  {{< br >}}{{< br >}} Lab 6 write-up {{< br >}}{{< br >}} Revised project specifications {{< br >}}{{< br >}} Revised 2nd brainstorm pictures {{< br >}}{{< br >}} Trip questions {{< br >}}{{< br >}}  |
-| 8 || {{< td-colspan 3 >}}Spring break trip to Nicaragua and El Salvador community partners{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+CLASSES
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS DUE\*
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 1. Introduction: Energy, units, estimation, energy usage world-wide
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 1. Human Power
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 0 (Lantern)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture 2. Energy storage & micro grids
+
+Initial trip planning
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2. Energy Storage
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading reaction
+
+Problem Set 1
+
+Lab 1 write-up
+
+Trip project survey
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture 3. Lighting
+
+Community partner introduction
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 3. Biogas & biodiesel lecture & construction
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 2
+
+Lab 2 write-up
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture 4. Solar thermal & PV
+
+Quiz I
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 4. Solar panel construction, installation, and operation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading reaction
+
+Community partner outreach
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture 5. Wind & micro-hydro
+
+Trip planning
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 5. Savonius wind turbine construction & testing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading reaction
+
+Problem Set 3
+
+Lab 4 write-up
+
+1st brainstorm pictures
+
+Literature search
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture 6. Cooking, stoves, & fuel
+
+Biogas digester testing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 6. Charcoal making & stove testing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading reaction
+
+Lab 3 and Lab 5 write-ups
+
+Initial project specifications
+
+2nd brainstorm pictures
+
+Materials list for trip
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 7. Trip plan presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Trip preparation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lab 6 write-up
+
+Revised project specifications
+
+Revised 2nd brainstorm pictures
+
+Trip questions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+Spring break trip to Nicaragua and El Salvador community partners
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \* Assignments are due each week on the Lab day unless otherwise noted. Students should anticipate spending 6 hours per week on assignments, including listening to no less than one ~20-minute Spanish podcast/week.
 
 ### Part II: Project Work
 
-| WEEK # | CLASS TOPICS & PROJECT WORK | Project Milestones |
-| --- | --- | --- |
-| 9 |  {{< br >}}{{< br >}} Lecture 8. Design Process {{< br >}}{{< br >}} Trip presentations, project evaluations {{< br >}}{{< br >}} Team formation & brainstorming {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Trip report {{< br >}}{{< br >}} Select project {{< br >}}{{< br >}} Team roles assigned {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Quiz 2 {{< br >}}{{< br >}} Librarian visit {{< br >}}{{< br >}} Experimentation overview {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Concept review {{< br >}}{{< br >}} Wiki Design Notebook report: best brainstormed ideas, Pugh charts {{< br >}}{{< br >}} Project specifications due {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} System-level design {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} System spec review {{< br >}}{{< br >}} Wiki Design Notebook report: sketch models & experimentation {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Detailed design and build {{< br >}}{{< br >}} Initial design review presentations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Critical design review with initial working prototype {{< br >}}{{< br >}} Wiki Design Notebook report {{< br >}}{{< br >}}  |
-| 13 | Testing and refinement | Wiki Design Notebook report |
-| 14 |  {{< br >}}{{< br >}} Testing and refinement {{< br >}}{{< br >}} Final design review presentations {{< br >}}{{< br >}}  | Final presentation and review at the D-Lab Showcase |
-| 15 | Production ramp-up | Final project report & team assessment
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+CLASS TOPICS & PROJECT WORK
+{{< thclose >}}
+{{< thopen >}}
+Project Milestones
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture 8. Design Process
+
+Trip presentations, project evaluations
+
+Team formation & brainstorming
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Trip report
+
+Select project
+
+Team roles assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz 2
+
+Librarian visit
+
+Experimentation overview
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Concept review
+
+Wiki Design Notebook report: best brainstormed ideas, Pugh charts
+
+Project specifications due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+System-level design
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+System spec review
+
+Wiki Design Notebook report: sketch models & experimentation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Detailed design and build
+
+Initial design review presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Critical design review with initial working prototype
+
+Wiki Design Notebook report
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Testing and refinement
+{{< tdclose >}}
+{{< tdopen >}}
+Wiki Design Notebook report
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Testing and refinement
+
+Final design review presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentation and review at the D-Lab Showcase
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Production ramp-up
+{{< tdclose >}}
+{{< tdopen >}}
+Final project report & team assessment
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

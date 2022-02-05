@@ -28,12 +28,130 @@ Assignments
 
 Project work will ramp up during the next few weeks prior to the spring break trip (Week 8).  Here's what's expected during Weeks 5 to 7.
 
-| PROJECT ASSIGNMENTS | DETAILS | DUE |
-| --- | --- | --- |
-| First brainstorm | Produce annotated pictures from each team member for each project | During Lab 5 class |
-| Literature search on topics |  {{< br >}}{{< br >}} What exists? How does it function? How is it made? Focus writing on summarize & reflect, not assess — only include sources that pass the assessment {{< br >}}{{< br >}} Reference: "[Annotated Bibliographies](http://owl.english.purdue.edu/owl/resource/614/01/)," from the Purdue Online Writing Lab (OWL). {{< br >}}{{< br >}} Deliverable: ~2 page annotated bibliography per project {{< br >}}{{< br >}}  | End of Week 5 |
-| Develop project specifications |  {{< br >}}{{< br >}} How: [2.009 Specification lecture slides (PDF)](http://web.mit.edu/2.009/www/lectures/15_specifications.pdf) {{< br >}}{{< br >}} Example: [2.009 Fruit Spec](http://web.mit.edu/2.009/www/lectures/15_fruitSpec/specExamples.html) {{< br >}}{{< br >}} Deliverable: specs for each project using 2.009 format (attribute, metric, unit, value)  {{< br >}}It is likely you won't be able to fill in all the values until your trip. {{< br >}}{{< br >}}  | End of Week 6, revised by end of Week 7 |
-| Second brainstorm | 2 annotated pictures for each project | End of Week 6, revised by end of Week 7 |
-| Materials list for trip | Delivered to project partners | End of Week 6 |
-| Question list for trip | &nbsp; | During Lecture 7 class |
-| 15-minute project presentation | Contents: {{< br >}}{{< br >}} 1.  literature search findings{{< br >}}2.  project specifications{{< br >}}3.  annotated pictures{{< br >}}4.  key questions{{< br >}}5.  key expected activities {{< br >}}{{< br >}}  | During Lecture 7 class
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROJECT ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+DETAILS
+{{< thclose >}}
+{{< thopen >}}
+DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First brainstorm
+{{< tdclose >}}
+{{< tdopen >}}
+Produce annotated pictures from each team member for each project
+{{< tdclose >}}
+{{< tdopen >}}
+During Lab 5 class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Literature search on topics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What exists? How does it function? How is it made? Focus writing on summarize & reflect, not assess — only include sources that pass the assessment
+
+Reference: "[Annotated Bibliographies](http://owl.english.purdue.edu/owl/resource/614/01/)," from the Purdue Online Writing Lab (OWL).
+
+Deliverable: ~2 page annotated bibliography per project
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+End of Week 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Develop project specifications
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+How: [2.009 Specification lecture slides (PDF)](http://web.mit.edu/2.009/www/lectures/15_specifications.pdf)
+
+Example: [2.009 Fruit Spec](http://web.mit.edu/2.009/www/lectures/15_fruitSpec/specExamples.html)
+
+Deliverable: specs for each project using 2.009 format (attribute, metric, unit, value)  
+It is likely you won't be able to fill in all the values until your trip.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+End of Week 6, revised by end of Week 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second brainstorm
+{{< tdclose >}}
+{{< tdopen >}}
+2 annotated pictures for each project
+{{< tdclose >}}
+{{< tdopen >}}
+End of Week 6, revised by end of Week 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Materials list for trip
+{{< tdclose >}}
+{{< tdopen >}}
+Delivered to project partners
+{{< tdclose >}}
+{{< tdopen >}}
+End of Week 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Question list for trip
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+During Lecture 7 class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-minute project presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Contents:
+
+1.  literature search findings
+2.  project specifications
+3.  annotated pictures
+4.  key questions
+5.  key expected activities
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+During Lecture 7 class
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
