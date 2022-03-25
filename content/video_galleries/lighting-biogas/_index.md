@@ -21,11 +21,11 @@ Resources for Lighting Design in Developing Countries
 *   Best Practices
     *   Lumina Project. [Best Practice Guide for off-grid lighting product development](http://light.lbl.gov/best-practices.html).
 *   Sources for statistics
-    *   Mills, Evan. ["The $230-billion Global Lighting Energy Bill." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://pdfs.semanticscholar.org/af45/cda1a788e6453c27ea9341a2545408bdf332.pdf?_ga=2.171809827.2016510353.1566239404-159250059.1566239404) June 2002.
+    *   Mills, Evan. ["The $230-billion Global Lighting Energy Bill." (PDF)](https://pdfs.semanticscholar.org/af45/cda1a788e6453c27ea9341a2545408bdf332.pdf?_ga=2.171809827.2016510353.1566239404-159250059.1566239404) June 2002.
     *   Lumina Project. [The Opportunity](http://light.lbl.gov/opportunity.html).
     *   OECD and IEA. ["Light's Labour Lost: Policies for Energy-efficient Lighting." (PDF)](http://web.archive.org/web/20101204194847/http://www.iea.org/work/2007/cfl/Waide.pdf)
-    *   Mills, Evan. ["The Specter of Fuel-Based Lighting." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.3MB)](http://light.lbl.gov/pubs/mills_science_fbl_full.pdf)
-    *   Apte, J., A. Gopal, J. Mathieu, and S. Parthasarathy. ["Improved Lighting for Indian Fishing Communities." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2.5MB)](http://light.lbl.gov/pubs/fisherman-led-rpt.pdf) May 16, 2007.
+    *   Mills, Evan. ["The Specter of Fuel-Based Lighting." (PDF - 1.3MB)](http://light.lbl.gov/pubs/mills_science_fbl_full.pdf)
+    *   Apte, J., A. Gopal, J. Mathieu, and S. Parthasarathy. ["Improved Lighting for Indian Fishing Communities." (PDF - 2.5MB)](http://light.lbl.gov/pubs/fisherman-led-rpt.pdf) May 16, 2007.
     *   U.S. DOE. ["2008 Residential Energy End-Use Splits, by Fuel Type."](https://openei.org/doe-opendata/dataset/buildings-energy-data-book) Table 2.1.5, in _Buildings Energy Data Book_. March 2011.
 *   Relevant organizations
     *   [International Commission on Illumination](http://www.cie.co.at/)

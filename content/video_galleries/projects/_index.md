@@ -67,4 +67,4 @@ Sample final reports can found on the [Project Results]({{< baseurl >}}/video_ga
 
 [Design Project grading rubric used by instructors (PDF)]({{< baseurl >}}/resources/mitec_711s11_proj_rubric)
 
-[Teamwork self-assessment rubric (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mitec_711s11_proj_teamass)
+[Teamwork self-assessment rubric (PDF)]({{< baseurl >}}/resources/mitec_711s11_proj_teamass)
