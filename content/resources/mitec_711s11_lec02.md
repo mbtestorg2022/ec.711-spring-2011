@@ -4,6 +4,7 @@ description: 'This resource contains information regarding week 2: energy storag
   ouput and efficiency. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ec-711-d-lab-energy-spring-2011/f7c2c564359a741ef5de50dfd675098b_MITEC_711S11_lec02.pdf
 file_type: application/pdf
+parent_uid: bd09c1cc-93fd-481d-3945-6e105dc16816
 resourcetype: Document
 title: Lecture 2 slides
 uid: f7c2c564-359a-741e-f5de-50dfd675098b

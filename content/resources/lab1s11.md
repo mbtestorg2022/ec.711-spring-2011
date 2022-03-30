@@ -7,6 +7,7 @@ image_metadata:
   caption: Woodworking design for shop training.
   credit: ''
   image-alt: Schematic with dimensions for four pieces of wood.
+parent_uid: 6e9b9bab-a0f9-93d0-5be2-369160b9b3ca
 resourcetype: Image
 title: lab1s11.jpg
 uid: 08ed6e0e-2453-a588-061c-56128dd14d5d
